@@ -9,7 +9,7 @@
 <div class="container">
     <div class="card bg-light mt-3">
         <div class="card-header">
-            Laravel 5.7 Import Export Excel to database Example - ItSolutionStuff.com
+            Import excel sheet
         </div>
         @if(session()->has('success'))
             <div class="alert alert-success">
